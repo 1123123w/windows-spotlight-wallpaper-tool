@@ -38,7 +38,39 @@ Windows Spotlight Wallpaper Tool is a Windows 11 WPF app for browsing, selecting
 Repository: <https://github.com/1123123w/windows-spotlight-wallpaper-tool>  
 Author: [1123123w](https://github.com/1123123w)  
 License: GPL-3.0-or-later
+Windows 11 Spotlight Image Extractor
+Product Description
+A powerful and easy-to-use tool designed specifically for Windows 11 users to locate, preview, and save high-quality Windows Spotlight (Desktop Focus) images.
+While there are many online questions about “Where are Windows Spotlight wallpapers stored?” and “How to save Spotlight images?”, this tool provides a complete one-stop automated solution. Simply run the exe file — no manual path searching, no scripts, no registry editing required.
+Key Features
 
+Automatic Directory Detection
+Automatically locates and reads the hidden Windows Spotlight image folder on Windows 11 (%LOCALAPPDATA%\Packages\MicrosoftWindows.Client.CBS_...). No need to manually find complex paths.
+Thumbnail Preview List
+Displays all available Spotlight images as clear thumbnails with essential information (filename, resolution, file size, etc.).
+Full-Screen Large Image Viewer
+Click any thumbnail to open a large preview mode. Supports mouse wheel zoom, drag to pan, and full-screen viewing for detailed inspection.
+Portrait / Landscape Filter
+Smart aspect ratio filtering — easily switch between Landscape (horizontal) and Portrait (vertical) images. Perfect for users who want high-quality phone wallpapers.
+Flexible Export & Save
+Save single images or batch export
+Choose output format: JPEG or PNG
+Custom save location
+Smart renaming options (add date, sequence number, etc.)
+
+
+Highlights
+
+Portable & Green: Single executable file, no installation needed
+Modern & User-Friendly Interface: Clean, intuitive design that’s easy for everyone
+Fast Performance: Quick scanning with caching support
+Safe & Non-Intrusive: Only reads image files, does not modify any system data
+
+Who It's For
+
+Users who love Windows Spotlight wallpapers but don’t know how to save them
+People looking for fresh high-resolution desktop or phone wallpapers
+Wallpaper collectors and enthusiasts
 ## Features
 
 - Browse Windows Spotlight desktop wallpaper images from the current user profile.
