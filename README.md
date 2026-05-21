@@ -1,6 +1,8 @@
 # Windows Spotlight Wallpaper Tool - Save Desktop and Lock Screen Spotlight Images
 
 
+ [download latest version /最新版本下载](https://github.com/1123123w/windows-spotlight-wallpaper-tool/releases/latest/download/WindowsSpotlightWallpaperTool.exe)  
+
 Windows Spotlight Wallpaper Tool is a Windows 11 WPF app for browsing, selecting, and saving Windows Spotlight desktop wallpaper and lock screen wallpaper images. It helps you export Spotlight images as JPEG, PNG, or AVIF when AVIF export support is available.
 
 功能说明
